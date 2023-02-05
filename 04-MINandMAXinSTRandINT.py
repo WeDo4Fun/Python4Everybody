@@ -1,3 +1,6 @@
+# In Python, when looking into MIN andMAX values for STR, in ranking CAPITAL letters 
+# come before small captioned letters => small letters have HIGHER ranking!!!
+
 varint = [1, 4, -5, 16, -89, 398]
 varstr1 = "Hello world"
 varstr2 = "Hello World"
