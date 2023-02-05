@@ -11,7 +11,7 @@ print ('Final largest =', largest)
 
 largest2:int = None
 print('*'*10)
-print('2nd pass - start of loop')
+print('2nd pass start of loop')
 for value in [-3, 3,14,-10, 98, 23, 1, 0, 16] :
     if largest2 == None :
         largest2 = value
